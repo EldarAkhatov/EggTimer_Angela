@@ -13,6 +13,7 @@
 		3FB708F42A72FB8000E2BCEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB708F22A72FB8000E2BCEF /* Main.storyboard */; };
 		3FB708F62A72FB8500E2BCEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FB708F52A72FB8500E2BCEF /* Assets.xcassets */; };
 		3FB708F92A72FB8500E2BCEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FB708F72A72FB8500E2BCEF /* LaunchScreen.storyboard */; };
+		3FB709412A75EF7500E2BCEF /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3FB709402A75EF7500E2BCEF /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3FB708F52A72FB8500E2BCEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FB708F82A72FB8500E2BCEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FB708FA2A72FB8500E2BCEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FB709402A75EF7500E2BCEF /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3FB708F52A72FB8500E2BCEF /* Assets.xcassets */,
 				3FB708F72A72FB8500E2BCEF /* LaunchScreen.storyboard */,
 				3FB708FA2A72FB8500E2BCEF /* Info.plist */,
+				3FB709402A75EF7500E2BCEF /* alarm_sound.mp3 */,
 			);
 			path = EggTimer_Angela;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				3FB708F92A72FB8500E2BCEF /* LaunchScreen.storyboard in Resources */,
 				3FB708F62A72FB8500E2BCEF /* Assets.xcassets in Resources */,
+				3FB709412A75EF7500E2BCEF /* alarm_sound.mp3 in Resources */,
 				3FB708F42A72FB8000E2BCEF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

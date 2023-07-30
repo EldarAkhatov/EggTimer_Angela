@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "soft_egg.png",
+      "filename" : "Soft.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "soft_egg@2x.png",
+      "filename" : "Soft@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "soft_egg@3x.png",
+      "filename" : "Soft@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
